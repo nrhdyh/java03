@@ -10,7 +10,7 @@
  */
 public class javaclass {
 public static void main (String[] args) {
-System.out.println("Selamat Datang");
+System.out.println("Selamat Datang ke Java");
 }
 }
 
